@@ -57,7 +57,7 @@ O programa imprime o resultado da multiplicação 123456789101112 * 131415161718
 
 ## Grafo de Fluxo
 
-![Grafo Karatsuba](imgs\grafo.png)
+![Grafo Karatsuba](imgs/grafo.png)
 
 ## Complexidade ciclomática
 A **complexidade ciclomática** mede o número de caminhos independentes dentro de uma função, ou seja, quantos fluxos diferentes de execução podem ocorrer.  
