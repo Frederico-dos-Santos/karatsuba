@@ -65,7 +65,7 @@ A **complexidade ciclomática** mede o número de caminhos independentes dentro 
 Fórmula utilizada:
 * M = E - N +2P
 
-* M = 8 - 8 + 2
+* M = 12 - 10 + 2
 * M = 2
 
 Ou seja, existem **2 caminhos independentes** na função:  
